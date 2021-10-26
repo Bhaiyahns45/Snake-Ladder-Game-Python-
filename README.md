@@ -11,3 +11,6 @@
 
     print("-> Press ENTER key to restart the game]")
     print("-> Press ESCAPE key to exit the game")
+    
+    
+    #### Run the file name SnakeLadderGame.py to start the game
