@@ -268,7 +268,7 @@ if __name__ == "__main__":
 
     name1 = input("\nEnter Player1 Name: ")
 
-    name2 = input("\nEnter Player1 Name: ")
+    name2 = input("\nEnter Player2 Name: ")
 
     theme = int(input("\nChoose the theme [1,2,3,4,5,6]: "))
 
