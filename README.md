@@ -15,6 +15,8 @@
     
     #### Run the file name SnakeLadderGame.py to start the game
 
+![Output Interface](SnakeLadder Game.png)
+
 ## Demo Video
 
 https://www.youtube.com/watch?v=TmraeKuW-G8
